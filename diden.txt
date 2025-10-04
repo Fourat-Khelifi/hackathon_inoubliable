@@ -14,3 +14,28 @@ https://fr.tradingeconomics.com/tunisia/indicators
 
 tunisian law for startups 
 chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://startup.gov.tn/sites/default/files/2022-01/Loi2018_20.pdf
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://startup.gov.tn/sites/default/files/2022-01/Decret2018_840Arabe.pdf
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://startup.gov.tn/sites/default/files/2022-01/Cir_2019_01_ar.pdf
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://startup.gov.tn/sites/default/files/2022-01/Cir_2019_02_ar.pdf
+
+
+
+
+
+
+
+
+
+##Leagal procedures part 
+
+1) general startup legal procedures  
+and for each one we make a list of details 
+that lead for papers 
+
+2 )
+put the usefull legal papers (law wise ) 
+
+## Market analysis part 
+
+
+best place that suites your startup based on specific args 
